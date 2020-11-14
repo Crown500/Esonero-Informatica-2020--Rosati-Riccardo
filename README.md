@@ -1,1 +1,5 @@
 # Esonero-Informatica-2020--Rosati-Riccardo
+
+NOME: RICCARDO
+COGNOME: ROSATI
+MATRICOLA: 332690
